@@ -1,4 +1,4 @@
-# The-Dark-Side
+# The Dark Side
 Dark app icons for mac OSX in icns and png format.
 
 ### Includes icons so far
