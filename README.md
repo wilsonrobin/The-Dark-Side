@@ -32,7 +32,7 @@ Dark app icons for mac OSX in icns and png format.
 1. Download [LiteIcons](http://www.freemacsoft.net/liteicon/)
 2. Replace icons
 3. Apply changes
-4. Clear icons cache via LiteIcons or killall -KILL Dock in terminal
+4. Clear icons cache via *LiteIcons* or *killall -KILL Dock* in terminal
 
 ### Preview
 ![Preview](preview.jpg)
